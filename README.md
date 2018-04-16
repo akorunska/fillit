@@ -6,16 +6,24 @@ Fillit will allow you to discover and get familiar with a recurring programming 
 
 Input should come in a \*.fillit file. Tetriminos should be formatted as follows:
 
->
->...#
->...#
->...#
->...#
+<code>
+...#
 
->....
->....
->....
->####
+...#
+
+...#
+
+...#
+
+
+....
+
+....
+
+....
+
+####
+
 
 .###
 ...#
@@ -26,6 +34,6 @@ Input should come in a \*.fillit file. Tetriminos should be formatted as follows
 ..##
 .##.
 ....
-`
+<code>
 
 Where each mode would represent a valid tetrimino.
