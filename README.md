@@ -8,22 +8,14 @@ Input should come in a \*.fillit file. Tetriminos should be formatted as follows
 
 <code>
 ...#
-
+...#
+...#
 ...#
 
-...#
-
-...#
-
-
 ....
-
 ....
-
 ....
-
 ####
-
 
 .###
 ...#
@@ -34,6 +26,6 @@ Input should come in a \*.fillit file. Tetriminos should be formatted as follows
 ..##
 .##.
 ....
-<code>
+</code>
 
 Where each mode would represent a valid tetrimino.
