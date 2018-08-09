@@ -28,4 +28,4 @@ Input should come in a \*.fillit file. Tetriminos should be formatted as follows
 ....
 ~~~~
 
-Where each mode would represent a valid tetrimino.
+Where each block would represent a valid tetrimino.
